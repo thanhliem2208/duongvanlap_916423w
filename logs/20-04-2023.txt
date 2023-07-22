@@ -1,0 +1,2 @@
+::1(admin)--query--tables(delete from table_user_online where time < 1681963471) (11:14:31 20/04/2023)
+::1(admin)--query--tables(delete from table_user_online where time < 1681963501) (11:15:01 20/04/2023)
